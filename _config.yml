@@ -1,0 +1,28 @@
+name: Anne Barga Studio
+favicon: null
+layout_spectrum: 0.7059708561282605
+typography_spectrum: 0.06991197285242379
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.48892148584127426
+  lightness: 0.8145456810016185
+  saturation: 0.31120692379772663
+  rhythmicContrast: 0.8395922498311847
+purpose: []
