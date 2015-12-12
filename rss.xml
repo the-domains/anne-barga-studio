@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anne Barga Studio]]></title>
         <description><![CDATA[Anne Barga Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anne-barga-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 15:04:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 15:37:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anne-barga-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b98fe88-2ea0-4504-b8f4-96cb1b197da1.jpg">]]></description>
+            <link>https://thegrid.ai/anne-barga-studio/25f16b4a-8bec-4505-bf5b-4c580867bbe9/index.html</link>
+            <guid isPermaLink="false">25f16b4a-8bec-4505-bf5b-4c580867bbe9</guid>
+            <pubDate>Sat, 12 Dec 2015 15:37:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65fb4b37-c558-4d55-8568-f67aba45fa72.jpg">]]></description>
-            <link>undefined0fa277bc-b7fc-420c-96bc-99fddf5e27fe/index.html</link>
+            <link>https://thegrid.ai/anne-barga-studio/0fa277bc-b7fc-420c-96bc-99fddf5e27fe/index.html</link>
             <guid isPermaLink="false">0fa277bc-b7fc-420c-96bc-99fddf5e27fe</guid>
             <pubDate>Sat, 12 Dec 2015 15:04:45 GMT</pubDate>
         </item>
